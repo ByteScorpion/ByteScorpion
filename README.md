@@ -33,7 +33,7 @@ Hello! I'm Akram Saidani, a passionate Machine Learning Engineer and Data Analys
 
 ## 🌟 Certifications
 
-- [![Google](https://img.shields.io/badge/Google-blue?style=flat&logo=google)]([https://www.coursera.org/account/accomplishments/certificate/GOOGLE_CERTIFICATE_LINK](https://coursera.org/share/9d347c821c83e43bcedaa0c9eb426c6e)) **Certificate in Data Analysis by Google on Coursera** 
+- [![Google](https://img.shields.io/badge/Google-blue?style=flat&logo=google)](https://coursera.org/share/9d347c821c83e43bcedaa0c9eb426c6e) **Certificate in Data Analysis by Google on Coursera** 
   - Skills in data analysis, big data processing, and use of analytical tools.
 
 - **Certificate in Machine Learning by Stanford University and Deeplearning.AI on Coursera** 
