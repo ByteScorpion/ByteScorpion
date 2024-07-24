@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer / Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akram%E2%94%BEsaidani-359977317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/akram-saidani-359977317)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:akramsaidani66@gmail.com)
 
 ---
@@ -44,7 +44,7 @@ Hello! I'm Akram Saidani, a passionate Machine Learning Engineer and Data Analys
 ## 🌐 Contact
 
 - **Email:** [akramsaidani66@gmail.com](mailto:akramsaidani66@gmail.com)
-- **LinkedIn:** [akram⎡saidani-359977317](https://www.linkedin.com/in/akram%E2%94%BEsaidani-359977317)
+- **LinkedIn:** [akram⎡saidani-359977317](www.linkedin.com/in/akram-saidani-359977317)
 
 ---
 
