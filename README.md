@@ -44,7 +44,7 @@ Hello! I'm Akram Saidani, a passionate Machine Learning Engineer and Data Analys
 ## 🌐 Contact
 
 - **Email:** [akramsaidani66@gmail.com](mailto:akramsaidani66@gmail.com)
-- **LinkedIn:** [akram⎡saidani-359977317](https://www.linkedin.com/in/akram-saidani-359977317/)
+- **LinkedIn:** [akramsaidani-359977317](https://www.linkedin.com/in/akram-saidani-359977317/)
 
 ---
 
