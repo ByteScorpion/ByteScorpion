@@ -1,6 +1,6 @@
 # Akram Saidani
 
-### Machine Learning Engineer / Data Analyst
+### Junior Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akram-saidani-359977317/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:akramsaidani66@gmail.com)
