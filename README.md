@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Akram Saidani, a passionate Machine Learning Engineer and Data Analyst specializing in data science and AI. My expertise lies in computer vision, natural language processing (NLP), and data analysis. With a strong background in statistics and data science, I enjoy solving complex problems and building innovative solutions.
+Hello! I'm Akram Saidani, a passionate Junior Data Scientist and Data Analyst specializing in data science and AI. My expertise lies in computer vision, natural language processing (NLP), and data analysis. With a strong background in statistics and data science, I enjoy solving complex problems and building innovative solutions.
 
 ---
 
